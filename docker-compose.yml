@@ -1,4 +1,4 @@
-version : "3.3"
+version : "2.27"
 services :
   web :
      image : hanzalaali/my-notes-app:latest
